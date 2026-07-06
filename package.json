@@ -1,0 +1,22 @@
+{
+  "name": "com.smidgenomics.unity-bookmarks",
+  "version": "0.1.0",
+  "displayName": "Bookmarks",
+  "description": "Bookmarks",
+  "license": "NON-AI-MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smidgens/unity-bookmarks.git"
+  },
+  "author": {
+    "name": "Unnar Krist",
+    "url": "https://github.com/Smidgens"
+  },
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
+  "hideInEditor": false,
+  "type": "tool",
+  "keywords":[
+  ]
+}
