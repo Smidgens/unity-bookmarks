@@ -1,6 +1,6 @@
 {
-    "name": "#Bookmarks",
-    "rootNamespace": "Xmas.Tools",
+    "name": "Smidgenomics.Unity.Bookmarks",
+    "rootNamespace": "Smidgenomics.Unity.Bookmarks",
     "references": [],
     "includePlatforms": [
         "Editor"
