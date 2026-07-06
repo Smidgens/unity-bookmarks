@@ -2,7 +2,7 @@
 
 #pragma warning disable 0414
 
-namespace Smidgenomics.Unity.Bookmarks
+namespace Smidgenomics.Unity.Bookmarks.Editor
 {
 	using Newtonsoft.Json;
 	using System.Text.RegularExpressions;

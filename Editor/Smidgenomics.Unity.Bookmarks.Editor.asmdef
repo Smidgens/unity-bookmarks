@@ -1,6 +1,6 @@
 {
-    "name": "Smidgenomics.Unity.Bookmarks",
-    "rootNamespace": "Smidgenomics.Unity.Bookmarks",
+    "name": "Smidgenomics.Unity.Bookmarks.Editor",
+    "rootNamespace": "Smidgenomics.Unity.Bookmarks.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

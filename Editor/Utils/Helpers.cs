@@ -1,6 +1,6 @@
 // smidgens @ github
 
-namespace Smidgenomics.Unity.Bookmarks
+namespace Smidgenomics.Unity.Bookmarks.Editor
 {
 	using UnityEngine;
 	using System.IO;
